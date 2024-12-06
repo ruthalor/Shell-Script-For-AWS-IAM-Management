@@ -20,7 +20,7 @@ Now moving on:
 For this project, my  shell script goes with the name **aws_cloud_manager.sh**
 
 1. `nano aws_cloud_manager.sh`
-![](./images/03.png)
+![](./Images/03.png)
 
 
 2. Here I have the main function of the script for my **aws_cloud_manager** file.
@@ -32,29 +32,28 @@ For this project, my  shell script goes with the name **aws_cloud_manager.sh**
 -  Attach Administrative Policy to Group  
 -  Assign Users to Group 
 
-![](./images/04.png)
-
+![](./Images/04.png)
 Save and exit the file editor.
 
 3. Run the `ls` command to see the file I have created. 
-![](./images/05.png)
+![](./Images/05.png)
 
 Now, this file isnt executable, hence why it is still in grey color.
 
 4. To make this file executable, I have to run the `chmod +x filename` command. 
 For this project, it is `chmod +x aws_cloud_manager.sh`.
 Run the `ls` command again to view the file and now, we have the script in an executable format!
-![](./images/06.png)
+![](./Images/06.png)
 
 5. Run the script: `./aws_cloud_manager.sh`
 Here is my displayed result
-![](./images/07.png)
-![](./images/08.png)
+![](./Images/07.png)
+![](./Images/08.png)
 My desired result were all automated!
 
 To confirm these, I logged into my AWS account and here I have my IAM USERS, IAM Group, Administrative Policy attached to Group and also IAM Users attached to IAM GROUP as well.
 
 Project has been automated and done!
-![](./images/09.png)
-![](./images/10.png)
-![](./images/11.png)
+![](./Images/09.png)
+![](./Images/10.png)
+![](./Images/11.png)
