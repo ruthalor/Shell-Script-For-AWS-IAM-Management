@@ -53,7 +53,10 @@ My desired result were all automated!
 
 To confirm these, I logged into my AWS account and here I have my IAM USERS, IAM Group, Administrative Policy attached to Group and also IAM Users attached to IAM GROUP as well.
 
-Project has been automated and done!
+
 ![](./Images/09.png)
 ![](./Images/10.png)
 ![](./Images/11.png)
+
+
+PROJECT HAS BEEN AUTOMATED AND DONE!
