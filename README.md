@@ -11,7 +11,7 @@ Lets proceed to deliver this project.
 I am making use of AWS CLI interface to deliver this project.
 
 Run the `aws configure list` command to ensure AWS CLI is properly configured and running on your server.
-The below result shout be your displayed result.
+The below result should be your displayed result.
 ![](./Images/02.png).
 
 Now moving on:
